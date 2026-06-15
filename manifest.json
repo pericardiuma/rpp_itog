@@ -1,0 +1,16 @@
+{
+  "name": "EaseMind",
+  "short_name": "EaseMind",
+  "description": "Бережная поддержка при РПП",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#596070",
+  "background_color": "#EAF1F1",
+  "icons": [
+    {
+      "src": "images/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
